@@ -2,13 +2,14 @@
 
 <h2>🏅 Certifications:</h2>
 
-CompTIA Security+
+CompTIA Security+ - 2025
 
-Microsoft Azure Fundamentals (AZ-900)
+Microsoft Azure Fundamentals (AZ-900) - 2026
 
 <h2>👨‍💻 Cybersecurity & Tech Projects:</h2>
 
-Project 1 — Coming Soon
+Project 1 — [Windows Event Log Project](https://github.com/arkaz1128/windowseventlog/tree/main)
+
 Project 2 — Coming Soon
 Project 3 — Coming Soon
 
