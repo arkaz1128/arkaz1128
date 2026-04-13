@@ -3,6 +3,7 @@
 <h2>🏅 Certifications:</h2>
 
 CompTIA Security+
+
 Microsoft Azure Fundamentals (AZ-900)
 
 <h2>👨‍💻 Cybersecurity & Tech Projects:</h2>
