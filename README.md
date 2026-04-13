@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Arkaz Glover! <br/>Cybersecurity & Technology Professional — Cloud, Linux & Networking</h1>
 
-<!--
-**arkaz1128/arkaz1128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🏅 Certifications:</h2>
 
-Here are some ideas to get you started:
+CompTIA Security+
+Microsoft Azure Fundamentals (AZ-900)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Cybersecurity & Tech Projects:</h2>
+
+Project 1 — Coming Soon
+Project 2 — Coming Soon
+Project 3 — Coming Soon
+
+<h2>🤳 Connect with me:</h2>
+
+[<img align="left" alt="Arkaz Glover | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/arkazglover/
