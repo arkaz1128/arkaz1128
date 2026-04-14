@@ -12,7 +12,7 @@ Project 1 — [Windows Event Log](https://github.com/arkaz1128/windowseventlog/t
 
 Project 2 — [Network Packet Tracing with Wireshark](https://github.com/arkaz1128/wireshark/tree/main)
 
-Project 3 — Coming Soon
+Project 3 — [Enterprise Networking - Simple Router and Switch Lab](https://github.com/arkaz1128/enterprisenetwork/tree/main)
 
 <h2>🤳 Connect with me:</h2>
 
