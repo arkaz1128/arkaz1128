@@ -8,11 +8,15 @@ Microsoft Azure Fundamentals (AZ-900) - 2026
 
 <h2>👨‍💻 Cybersecurity & Tech Projects:</h2>
 
-Project 1 — [Windows Event Log](https://github.com/arkaz1128/windowseventlog/tree/main)
+Project 1 - [Windows Event Log](https://github.com/arkaz1128/windowseventlog/tree/main)
 
-Project 2 — [Network Packet Tracing with Wireshark](https://github.com/arkaz1128/wireshark/tree/main)
+Project 2 - [Network Packet Tracing with Wireshark](https://github.com/arkaz1128/wireshark/tree/main)
 
-Project 3 — [Enterprise Networking - Simple Router and Switch Lab](https://github.com/arkaz1128/enterprisenetwork/tree/main)
+Project 3 - [Enterprise Networking - Simple Router and Switch Lab](https://github.com/arkaz1128/enterprisenetwork/tree/main)
+
+Project 4 -
+
+Project 5 -
 
 <h2>🤳 Connect with me:</h2>
 
