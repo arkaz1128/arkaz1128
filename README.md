@@ -14,7 +14,7 @@ Project 2 - [Network Packet Tracing with Wireshark](https://github.com/arkaz1128
 
 Project 3 - [Enterprise Networking - Simple Router and Switch Lab](https://github.com/arkaz1128/enterprisenetwork/tree/main)
 
-Project 4 -
+Project 4 - [SOHO Network VLAN DHCP Wireless](https://github.com/arkaz1128/SOHO-Network-VLAN-DHCP-Wireless)
 
 Project 5 -
 
