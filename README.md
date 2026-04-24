@@ -10,13 +10,13 @@ Microsoft Azure Fundamentals (AZ-900) - 2026
 
 Project 1 - [Windows Event Log](https://github.com/arkaz1128/windowseventlog/tree/main)
 
-Project 2 - [Network Packet Tracing with Wireshark](https://github.com/arkaz1128/wireshark/tree/main)
+Project 2 - [Network Packet Tracing with Wireshark Lab](https://github.com/arkaz1128/wireshark/tree/main)
 
 Project 3 - [Enterprise Networking - Simple Router and Switch Lab](https://github.com/arkaz1128/enterprisenetwork/tree/main)
 
-Project 4 - [SOHO Network VLAN DHCP Wireless](https://github.com/arkaz1128/SOHO-Network-VLAN-DHCP-Wireless)
+Project 4 - [SOHO Network VLAN DHCP Wireless Lab](https://github.com/arkaz1128/SOHO-Network-VLAN-DHCP-Wireless)
 
-Project 5 -
+Project 5 - [IAM Joiner Mover Leaver in Azure Lab](https://github.com/arkaz1128/IAM-Joiner-Mover-Leaver-in-Azure)
 
 <h2>🤳 Connect with me:</h2>
 
