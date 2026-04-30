@@ -18,6 +18,8 @@ Project 4 - [SOHO Network VLAN DHCP Wireless Lab](https://github.com/arkaz1128/S
 
 Project 5 - [IAM Joiner Mover Leaver in Azure Lab](https://github.com/arkaz1128/IAM-Joiner-Mover-Leaver-in-Azure)
 
+Project 6 - [PAM Capstone Privileged Access Management Lab]
+
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Arkaz Glover | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
