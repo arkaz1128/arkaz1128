@@ -18,7 +18,7 @@ Project 4 - [SOHO Network VLAN DHCP Wireless Lab](https://github.com/arkaz1128/S
 
 Project 5 - [IAM Joiner Mover Leaver in Azure Lab](https://github.com/arkaz1128/IAM-Joiner-Mover-Leaver-in-Azure)
 
-Project 6 - [PAM Capstone Privileged Access Management Lab]
+Project 6 - [PAM Capstone Privileged Access Management Lab](https://github.com/arkaz1128/PAM-Capstone-Privileged-Access-Management)
 
 <h2>🤳 Connect with me:</h2>
 
