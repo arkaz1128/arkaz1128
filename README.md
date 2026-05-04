@@ -20,6 +20,8 @@ Project 5 - [IAM Joiner Mover Leaver in Azure Lab](https://github.com/arkaz1128/
 
 Project 6 - [PAM Capstone Privileged Access Management Lab](https://github.com/arkaz1128/PAM-Capstone-Privileged-Access-Management)
 
+Project 7- [Single Sign-On Federation with Microsoft Entra ID and SAML Tracer Lab]
+
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="Arkaz Glover | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
