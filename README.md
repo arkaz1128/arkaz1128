@@ -22,7 +22,7 @@ Project 6 - [PAM Capstone Privileged Access Management Lab](https://github.com/a
 
 Project 7- [SSO Federation with Microsoft Entra ID and SAML Tracer Lab](https://github.com/arkaz1128/Single-Sign-On-Federation-with-Microsoft-Entra-ID-and-SAML-Tracer
 
-Project 8- [Azure SQL Database — Cloud Data Provisioning Lab]
+Project 8- [Azure SQL Database — Cloud Data Provisioning Lab](https://github.com/arkaz1128/Azure-SQL-Database-Cloud-Data-Provisioning)
 
 <h2>🤳 Connect with me:</h2>
 
