@@ -24,7 +24,7 @@ Project 7- [SSO Federation with Microsoft Entra ID and SAML Tracer Lab](https://
 
 Project 8- [Azure SQL Database — Cloud Data Provisioning Lab](https://github.com/arkaz1128/Azure-SQL-Database-Cloud-Data-Provisioning)
 
-Project 9- [Serverless REST API with Azure Functions]
+Project 9- [Serverless REST API with Azure Functions](https://github.com/arkaz1128/Serverless-REST-API-with-Azure-Functions)
 
 <h2>🤳 Connect with me:</h2>
 
