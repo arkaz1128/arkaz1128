@@ -29,6 +29,8 @@ Project 9- [Serverless REST API with Azure Functions Lab](https://github.com/ark
 Project 10- [Virtualized Cybersecurity Home Lab](https://github.com/arkaz1128/Virtualized-Cybersecurity-Home-Lab-with-Active-Directory-Windows-Server-2022-and-Kali-Linux)
 <h2>🤳 Connect with me:</h2>
 
+CCNA Lab 1- 
+
 [<img align="left" alt="Arkaz Glover | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
