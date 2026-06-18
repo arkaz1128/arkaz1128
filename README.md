@@ -29,6 +29,8 @@ Project 9- [Serverless REST API with Azure Functions Lab](https://github.com/ark
 Project 10- [Virtualized Cybersecurity Home Lab](https://github.com/arkaz1128/Virtualized-Cybersecurity-Home-Lab-with-Active-Directory-Windows-Server-2022-and-Kali-Linux)
 
 Project 11- [CCNA Day 1 Lab – Network Topology Introduction in Cisco Packet Tracer](https://github.com/arkaz1128/CCNA-Day-1-Lab-Network-Topology-Introduction-in-Cisco-Packet-Tracer)
+
+Project 12- [CCNA Day 2 Lab – Connecting Network Devices with Correct Cable Types](https://github.com/arkaz1128/CCNA-Day-2-Lab-Connecting-Network-Devices-with-Correct-Cable-Types)
 <h2>🤳 Connect with me:</h2>
 
 
