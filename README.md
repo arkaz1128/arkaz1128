@@ -33,6 +33,8 @@ Project 11 - [CCNA Day 1 Lab – Network Topology Introduction in Cisco Packet T
 Project 12 - [CCNA Day 2 Lab – Connecting Network Devices with Correct Cable Types](https://github.com/arkaz1128/CCNA-Day-2-Lab-Connecting-Network-Devices-with-Correct-Cable-Types)
 
 Project 13 - [CCNA Day 3 Lab – OSI Model Protocol Observation in Cisco Packet Tracer](https://github.com/arkaz1128/CCNA-Day-3-Lab-OSI-Model-Protocol-Observation-in-Cisco-Packet-Tracer)
+
+Project 14 - [CCNA Day 4 Lab – CLI Basics, Hostname Configuration, and Password Security]
 <h2>🤳 Connect with me:</h2>
 
 
