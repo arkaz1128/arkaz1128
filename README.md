@@ -35,6 +35,8 @@ Project 12 - [CCNA Day 2 Lab – Connecting Network Devices with Correct Cable T
 Project 13 - [CCNA Day 3 Lab – OSI Model Protocol Observation in Cisco Packet Tracer](https://github.com/arkaz1128/CCNA-Day-3-Lab-OSI-Model-Protocol-Observation-in-Cisco-Packet-Tracer)
 
 Project 14 - [CCNA Day 4 Lab – CLI Basics, Hostname Configuration, and Password Security](https://github.com/arkaz1128/CCNA-Day-4-Lab-CLI-Basics-Hostname-Configuration-and-Password-Security)
+
+Project 15 - [CCNA Day 6 Lab – Ethernet LAN Switching and MAC Address Table Analysis](https://github.com/arkaz1128/CCNA-Day-6-Lab-Ethernet-LAN-Switching-and-MAC-Address-Table-Analysis)
 <h2>🤳 Connect with me:</h2>
 
 
