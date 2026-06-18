@@ -39,6 +39,8 @@ Project 14 - [CCNA Day 4 Lab – CLI Basics, Hostname Configuration, and Passwor
 Project 15 - [CCNA Day 6 Lab – Ethernet LAN Switching and MAC Address Table Analysis](https://github.com/arkaz1128/CCNA-Day-6-Lab-Ethernet-LAN-Switching-and-MAC-Address-Table-Analysis)
 
 Project 16 - [CCNA Day 8 Lab – Router Interface Configuration and Inter-Network Connectivity](https://github.com/arkaz1128/CCNA-Day-8-Lab-Router-Interface-Configuration-and-Inter-Network-Connectivity)
+
+Project 17 - [CCNA Day 9 Lab – Switch and Router Interface Configuration](https://github.com/arkaz1128/CCNA-Day-9-Lab-Switch-and-Router-Interface-Configuration)
 <h2>🤳 Connect with me:</h2>
 
 
