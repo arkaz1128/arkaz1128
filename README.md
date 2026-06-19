@@ -41,6 +41,10 @@ Project 15 - [CCNA Day 6 Lab – Ethernet LAN Switching and MAC Address Table An
 Project 16 - [CCNA Day 8 Lab – Router Interface Configuration and Inter-Network Connectivity](https://github.com/arkaz1128/CCNA-Day-8-Lab-Router-Interface-Configuration-and-Inter-Network-Connectivity)
 
 Project 17 - [CCNA Day 9 Lab – Switch and Router Interface Configuration](https://github.com/arkaz1128/CCNA-Day-9-Lab-Switch-and-Router-Interface-Configuration)
+
+Project 18 - [CCNA Day 11 Lab – Static Routing Configuration Across Three Routers](https://github.com/arkaz1128/CCNA-Day-11-Lab-Static-Routing-Configuration-Across-Three-Routers)
+
+Project 19 - [CCNA Day 11 Lab 2 – Static Route Troubleshooting Across Three Routers](https://github.com/arkaz1128/CCNA-Day-11-Lab-2-Static-Route-Troubleshooting-Across-Three-Routers)
 <h2>🤳 Connect with me:</h2>
 
 
