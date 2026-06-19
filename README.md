@@ -45,6 +45,8 @@ Project 17 - [CCNA Day 9 Lab – Switch and Router Interface Configuration](http
 Project 18 - [CCNA Day 11 Lab – Static Routing Configuration Across Three Routers](https://github.com/arkaz1128/CCNA-Day-11-Lab-Static-Routing-Configuration-Across-Three-Routers)
 
 Project 19 - [CCNA Day 11 Lab 2 – Static Route Troubleshooting Across Three Routers](https://github.com/arkaz1128/CCNA-Day-11-Lab-2-Static-Route-Troubleshooting-Across-Three-Routers)
+
+Project 20 - [CCNA Day 12 Lab – Multi-Router ICMP Path Tracing & MAC Address Mapping](https://github.com/arkaz1128/CCNA-Day-12-Lab-Multi-Router-ICMP-Path-Tracing-MAC-Address-Mapping)
 <h2>🤳 Connect with me:</h2>
 
 
